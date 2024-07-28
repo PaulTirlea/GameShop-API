@@ -32,7 +32,7 @@ GameShop is an ASP.NET Core Web API project designed for an online store selling
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/GameShop.git
+   git clone https://github.com/PaulTirlea/GameShop-API
 ### Usage
 - Swagger UI: Once the application is running, navigate to http://localhost:5000/swagger in your browser to view and interact with the API documentation.
 - API Endpoints: Use the Swagger UI to test the various endpoints for managing games, categories, orders, and customers.
